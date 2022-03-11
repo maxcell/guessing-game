@@ -4,8 +4,8 @@ Solution with the Rust learning group at work. Inspired and directed by "The Rus
 
 ### Versions
 
-- Where we left off with the example together (git sha 510eb3f55d9c)
-- Adding the looping (git sha 09a40a423dd)
+- [Guessing game without loop](https://github.com/maxcell/guessing-game/blob/510eb3f55d9c7d3e2a07f92dc61a32786e1316b9/src/main.rs)
+- [Guessing game with loop](https://github.com/maxcell/guessing-game/blob/09a40a423dd9eaf1efa0aebadea767c1b99e7c35/src/main.rs)
 
 ### Additional Resources
 
