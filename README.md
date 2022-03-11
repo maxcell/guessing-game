@@ -4,8 +4,8 @@ Solution with the Rust learning group at work. Inspired and directed by "The Rus
 
 ### Versions
 
-- Where we left off with the example together
-- Adding the looping
+- Where we left off with the example together (git sha 510eb3f55d9c)
+- Adding the looping (git sha 09a40a423dd)
 
 ### Additional Resources
 
